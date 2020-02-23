@@ -1,3 +1,3 @@
 # Image-sort
 Sort all pixels in image by value  
-![Info](.git/info.png)
+![Info](.git/info.gif)
